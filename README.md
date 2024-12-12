@@ -4,7 +4,7 @@
 
 
 ## Steps for running AlphaFold on web server:
-'https://deepmind.google/technologies/alphafold/alphafold-server/' 
+https://deepmind.google/technologies/alphafold/alphafold-server/
   - login with a Google email
   - Input: FASTA file/PDB file/ FASTA sequence
   - Output: 5 models (0-4)
@@ -13,11 +13,13 @@
     -   1 confidences file/ model
    
 ## Steps for running ESMFold API  
+https://esmatlas.com/resources?action=fold 
   - Input: FASTA format sequence
   - Output: Predicted structure with downloadable .pdb file
 
 
-## Steps for running SWISS-MODEL 
+## Steps for running SWISS-MODEL
+https://swissmodel.expasy.org/ 
   - start modelling
   - Input: FASTA file/FASTA sequence
   - Output: predicted structures
