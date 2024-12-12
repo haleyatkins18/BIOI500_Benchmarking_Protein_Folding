@@ -1,0 +1,21 @@
+[{
+ "name": "7YR6_RNA",
+ "modelSeeds": [
+  "1389491618"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MLILTRRVGETLMVGDDVTVTVLGVKGNQVRIGVNAPKEVAVHREEIYQRIQKEK",
+    "count": 1
+   }
+  },
+  {
+   "rnaSequence": {
+    "sequence": "GCGUACAGGGAACACGCAACCCCGAAGGAUCGGGGAAGGGACGUCGCCAGGGAGGCGAUUCCAUCAGGAUGAUGACGAGGGACUGAAGAGUGGGCGGGGUAAUACCCCGCCCCUUUUU",
+    "count": 1
+   }
+  }
+ ]
+}
+]
