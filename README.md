@@ -3,7 +3,7 @@
 ## Benchmarking Project for protein folding in BIOI 500. Benchmarked the tools: AlphaFold, ESMFold, and SWISS-MODEL. AlphaFold web server, ESMFold API, and SWISS-MODEL web server. 
 
 
-## Steps for running AlphaFold on web server:
+## Running AlphaFold on web server:
 https://deepmind.google/technologies/alphafold/alphafold-server/
   - login with a Google email
   - Input: FASTA file/PDB file/ FASTA sequence
@@ -12,13 +12,13 @@ https://deepmind.google/technologies/alphafold/alphafold-server/
     -   1 *.cif file/ model
     -   1 confidences file/ model
    
-## Steps for running ESMFold API  
+## Running ESMFold API  
 https://esmatlas.com/resources?action=fold 
   - Input: FASTA format sequence
   - Output: Predicted structure with downloadable .pdb file
 
 
-## Steps for running SWISS-MODEL
+## Running SWISS-MODEL
 https://swissmodel.expasy.org/ 
   - start modelling
   - Input: FASTA file/FASTA sequence
@@ -28,6 +28,16 @@ https://swissmodel.expasy.org/
       - GMQE
       - QMEANDisCo Global
       - Oligo-state
+
+## Pymol Commands (Educational Version)
+- open predicted protein structure in Pymol
+- fetch {experimental protein PDB code}
+- as cartoon, all
+- align predicted structure, experimental structure
+- Output:
+  - aligned protein structures
+  - RMSD calculations
+  
    
 
 
