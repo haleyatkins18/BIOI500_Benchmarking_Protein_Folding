@@ -1,0 +1,21 @@
+[{
+ "name": "7yr7",
+ "modelSeeds": [
+  "170475258"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "MLILTRRVGETLMVGDDVTVTVLGVKGNQVRIGVNAPKEVAVHREEIYQRIQKEK",
+    "count": 1
+   }
+  },
+  {
+   "rnaSequence": {
+    "sequence": "GCGUACAGGGAACACGCAACCCCGAAGGAUCGGGGAAGGGACGUCGCCAGGGAGGCGAUUCCAUCAGGAUGAUGACGAGGGACUGAAGAGUGGGCGGGGUAAUACCCCGCCCCUUUUU",
+    "count": 1
+   }
+  }
+ ]
+}
+]
