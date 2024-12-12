@@ -1,0 +1,15 @@
+[{
+ "name": "8em5",
+ "modelSeeds": [
+  "100734151"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "GPLGSDDPEPFDPKVVTYEIFGTPGAVVDINYLDLDARTQRVNDVTLPWSITLSTTAPSALAHIVAQGNADHIGCRIIVDGELRVESVSTGVNAQTYCIEKSA",
+    "count": 1
+   }
+  }
+ ]
+}
+]
