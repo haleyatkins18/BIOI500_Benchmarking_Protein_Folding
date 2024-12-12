@@ -4,11 +4,29 @@
 
 
 ## Steps for running AlphaFold on web server:
+'https://deepmind.google/technologies/alphafold/alphafold-server/' 
   - login with a Google email
-  - input: FASTA file/PDB file/ FASTA sequence
+  - Input: FASTA file/PDB file/ FASTA sequence
   - Output: 5 models (0-4)
     -   1 *.json/ model
     -   1 *.cif file/ model
     -   1 confidences file/ model
+   
+## Steps for running ESMFold API  
+  - Input: FASTA format sequence
+  - Output: Predicted structure with downloadable .pdb file
+
+
+## Steps for running SWISS-MODEL 
+  - start modelling
+  - Input: FASTA file/FASTA sequence
+  - Output: predicted structures
+      - Sequence identity
+      - Template
+      - GMQE
+      - QMEANDisCo Global
+      - Oligo-state
+   
+
 
 
