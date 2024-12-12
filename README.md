@@ -5,5 +5,10 @@
 
 ## Steps for running AlphaFold on web server:
   - login with a Google email
-  - 
+  - input: FASTA file/PDB file/ FASTA sequence
+  - Output: 5 models (0-4)
+  -   1 *.json/ model
+  -   1 *.cif file/ model
+  -   1 confidences file/ model
+
 
